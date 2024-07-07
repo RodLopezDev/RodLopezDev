@@ -1,12 +1,12 @@
 <p align="center">
   Visitor count<br />
-  <img src="https://profile-counter.glitch.me/RodLopez/count.svg" />
+  <img src="https://profile-counter.glitch.me/RodLopezDev/count.svg" />
 </p>
 <h1 align="center">Hi 👋, I'm Rodrigo López</h1>
 <p align="left">
   <img
-    src="https://komarev.com/ghpvc/?username=RodLopez&label=Profile%20views&color=0e75b6&style=flat"
-    alt="RodLopez"
+    src="https://komarev.com/ghpvc/?username=RodLopezDev&label=Profile%20views&color=0e75b6&style=flat"
+    alt="RodLopezDev"
   />
 </p>
 <img
